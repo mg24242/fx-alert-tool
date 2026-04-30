@@ -1,0 +1,28 @@
+# ポーリング設定
+polling:
+  interval_minutes: 5    # GitHub Actionsのcronで制御するため参考値
+
+# 時間帯フィルタ（JST）
+time_filter:
+  - range: "09:00-22:00"
+    min_lv_to_notify: 2    # 全Lv通知（Lv2以上）
+  - range: "22:00-06:00"
+    min_lv_to_notify: 3    # NY時間はLv3以上
+  - range: "06:00-09:00"
+    min_lv_to_notify: 4    # 早朝はLv4以上のみ
+
+# クールダウン（同一人物の重複通知を防ぐ）
+cooldown:
+  default_minutes: 60      # 同一人物の通知は1時間空ける
+  bypass_for_lv4: true     # ただしLv4以上は人物が違えば即通知
+
+# Discord通知先（環境変数で上書き可能）
+discord:
+  webhook_low: "${DISCORD_WEBHOOK_LOW}"      # Lv2用
+  webhook_mid: "${DISCORD_WEBHOOK_MID}"      # Lv3用
+  webhook_high: "${DISCORD_WEBHOOK_HIGH}"    # Lv4-5用
+
+# ステート管理
+state:
+  notified_file: "state/notified.json"
+  retention_days: 7        # 7日経過した通知履歴は削除（ファイルサイズ抑制）

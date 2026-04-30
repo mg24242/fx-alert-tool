@@ -1,0 +1,26 @@
+{
+  "notified_articles": [
+    {
+      "id": "https://news.yahoo.co.jp/articles/f41db3b34c9bef39f1634292bcd44f2d92836e82?source=rss",
+      "notified_at": "2026-04-30T23:08:39.663729+09:00",
+      "lv": 4,
+      "person": "財務相"
+    },
+    {
+      "id": "https://news.yahoo.co.jp/articles/1780d41c2ced602a1ae67896985a0d6fabb1a799?source=rss",
+      "notified_at": "2026-04-30T23:08:39.663729+09:00",
+      "lv": 4,
+      "person": "片山"
+    },
+    {
+      "id": "https://news.yahoo.co.jp/articles/431d2c3a3ed4ab19396ea73cf532f73febfe8b2d?source=rss",
+      "notified_at": "2026-05-01T00:19:12.904703+09:00",
+      "lv": 1,
+      "person": "片山"
+    }
+  ],
+  "last_notification_per_person": {
+    "財務相": "2026-04-30T23:08:39.663729+09:00",
+    "片山": "2026-05-01T00:19:12.904703+09:00"
+  }
+}

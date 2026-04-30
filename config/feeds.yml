@@ -1,0 +1,15 @@
+feeds:
+  - name: "ロイター日本"
+    url: "https://jp.reuters.com/rssFeed/businessNews"
+    enabled: false
+  - name: "ロイター日本（マーケット）"
+    url: "https://jp.reuters.com/rssFeed/marketsNews"
+    enabled: false
+  - name: "Yahoo!ニュース 経済"
+    url: "https://news.yahoo.co.jp/rss/categories/business.xml"
+    enabled: true
+  - name: "Yahoo!ニュース 国内"
+    url: "https://news.yahoo.co.jp/rss/categories/domestic.xml"
+    enabled: true
+  # ブルームバーグ日本・日経はRSSが公開されていない/不安定なため、
+  # 必要に応じて手動で追加する
