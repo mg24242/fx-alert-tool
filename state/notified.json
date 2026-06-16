@@ -1,18 +1,6 @@
 {
   "notified_articles": [
     {
-      "id": "https://news.yahoo.co.jp/articles/b710f6cd24486eb70bb7701a8c24484f94552d82?source=rss",
-      "notified_at": "2026-06-09T10:24:33.007605+09:00",
-      "lv": 4,
-      "person": "財務相"
-    },
-    {
-      "id": "https://news.yahoo.co.jp/articles/58bf39fcfa0518c3bfd1c4b9be177a4c6fbae24d?source=rss",
-      "notified_at": "2026-06-09T10:24:33.007605+09:00",
-      "lv": 4,
-      "person": "財務相"
-    },
-    {
       "id": "https://news.yahoo.co.jp/articles/1d14e383fce489565a12f82f33fa1ffd58978849?source=rss",
       "notified_at": "2026-06-09T14:34:26.883031+09:00",
       "lv": 4,
