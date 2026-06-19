@@ -1,7 +1,14 @@
 {
-  "notified_articles": [],
+  "notified_articles": [
+    {
+      "id": "https://news.yahoo.co.jp/articles/29eff7029989250d2b8d7af676633e8e400a7367?source=rss",
+      "notified_at": "2026-06-19T11:08:44.009470+09:00",
+      "lv": 4,
+      "person": "財務相"
+    }
+  ],
   "last_notification_per_person": {
-    "財務相": "2026-06-09T10:24:33.007605+09:00",
+    "財務相": "2026-06-19T11:08:44.009470+09:00",
     "片山": "2026-06-10T10:38:22.441283+09:00"
   }
 }
