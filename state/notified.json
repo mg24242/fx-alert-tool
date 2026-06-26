@@ -1,12 +1,6 @@
 {
   "notified_articles": [
     {
-      "id": "https://news.yahoo.co.jp/articles/29eff7029989250d2b8d7af676633e8e400a7367?source=rss",
-      "notified_at": "2026-06-19T11:08:44.009470+09:00",
-      "lv": 4,
-      "person": "財務相"
-    },
-    {
       "id": "https://news.yahoo.co.jp/articles/a3c2b0cf0c118379a199d1952d123aba1c4423af?source=rss",
       "notified_at": "2026-06-19T16:22:40.069438+09:00",
       "lv": 4,
