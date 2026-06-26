@@ -1,12 +1,6 @@
 {
   "notified_articles": [
     {
-      "id": "https://news.yahoo.co.jp/articles/a3c2b0cf0c118379a199d1952d123aba1c4423af?source=rss",
-      "notified_at": "2026-06-19T16:22:40.069438+09:00",
-      "lv": 4,
-      "person": "片山"
-    },
-    {
       "id": "https://news.yahoo.co.jp/articles/19696d6c94d8938f8953ca741257a448294fce87?source=rss",
       "notified_at": "2026-06-19T20:43:00.511078+09:00",
       "lv": 4,
