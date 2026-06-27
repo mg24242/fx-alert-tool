@@ -1,12 +1,5 @@
 {
-  "notified_articles": [
-    {
-      "id": "https://news.yahoo.co.jp/articles/dae17178d79e2d834b804a1f414f2e3375b58faa?source=rss",
-      "notified_at": "2026-06-20T10:37:07.818185+09:00",
-      "lv": 4,
-      "person": "片山"
-    }
-  ],
+  "notified_articles": [],
   "last_notification_per_person": {
     "財務相": "2026-06-19T11:08:44.009470+09:00",
     "片山": "2026-06-20T10:37:07.818185+09:00"
