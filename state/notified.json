@@ -1,12 +1,5 @@
 {
-  "notified_articles": [
-    {
-      "id": "https://news.yahoo.co.jp/articles/00286ab9979d552f4fce4d4c0b65fc4cfe9c92ae?source=rss",
-      "notified_at": "2026-08-14T11:40:24.844017+09:00",
-      "lv": 2,
-      "person": "高市"
-    }
-  ],
+  "notified_articles": [],
   "last_notification_per_person": {
     "財務相": "2026-06-19T11:08:44.009470+09:00",
     "片山": "2026-06-20T10:37:07.818185+09:00",
